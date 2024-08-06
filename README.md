@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Parthib Mondal</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A Passionate Full Stack Web Developer from India</h3>
 
 ![](https://github-profile-trophy.vercel.app/?username=parthib-mondal3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+- 📫 How to reach me **parthibmondal19@gmail.com**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/parthib26322298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parthib26322298" height="30" width="40" /></a>
